@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Raiden (DokraijinHyron)
 
-<!--
-**DokraijinHyron/DokraijinHyron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Embedded Systems Engineer**  
+🎨 **3D & VR Enthusiast**
 
-Here are some ideas to get you started:
+I work as an embedded systems engineer, focusing on low-level hardware and firmware development.  
+Alongside my professional work, I enjoy creating **3D environments and virtual worlds**, especially for **VRChat**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills & Interests
+
+- Embedded Systems (MCU, low-level firmware)
+- C / C++ for embedded development
+- Hardware interfacing & debugging
+- 3D Modeling with **Blender**
+- World building with **Unity** & **Unreal Engine**
+- VRChat world creation
+
+---
+
+## 🚀 Featured Projects
+
+- 🔐 **SmartLockUsingESP** – Smart lock system using ESP32 & RFID  
+- 📐 **AT89C51 Projects** – Learning and experimenting with 8051 microcontrollers  
+- 🧭 **SideBarMenu** – Simple and responsive sidebar UI for web dashboards  
+- 🌌 **VRChat Worlds** – Custom virtual environments built with Unity
+
+---
+
+## 📫 Contact & Links
+
+- GitHub: https://github.com/DokraijinHyron
+- Portfolio (coming soon)
+
+---
+
+> *Bridging embedded engineering with creative virtual experiences.*
