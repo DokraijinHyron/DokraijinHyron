@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raiden (DokraijinHyron)
+# 👋 Hi, I'm Phuoc Nguyen (DokraijinHyron)
 
 🔧 **Embedded Systems Engineer**  
 🎨 **3D & VR Enthusiast**
